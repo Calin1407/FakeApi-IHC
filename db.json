@@ -1,0 +1,25 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Jose Peraltes",
+      "correo": "jose@gmail.com",
+      "ubicacion": "Lima",
+      "telefono": "+51983684123"
+    },
+    {
+      "id": 2,
+      "nombre": "Maria Soto",
+      "correo": "maria@gmail.com",
+      "ubicacion": "Arequipa",
+      "telefono": "+51911222333"
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos Rojas",
+      "correo": "carlos@gmail.com",
+      "ubicacion": "Trujillo",
+      "telefono": "+51944445555"
+    }
+  ]
+}
